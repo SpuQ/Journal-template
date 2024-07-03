@@ -10,7 +10,7 @@ To use this template, download the template PNG file on your digital notebook. O
 TODO
 
 ## License & Collaboration
-**Copyright© 2024 Sanne 'SpuQ' Santens**. This template project is licensed under the **[GNU GPLv3](LICENSE.txt)**.
+**Copyright© 2024 Sanne 'SpuQ' Santens**. This template project is licensed under the **[GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)**.
 
 If you'd like to contribute to this project, please follow these guidelines:
 1. Fork the repository and create your branch from `main`.
