@@ -4,7 +4,7 @@ This is a self-care journal template for 10" digital notebooks. Whether you're g
 <br clear="left"/>
 
 ## Installation
-To use this template, download the template PNG file on your digital notebook. On the Boox Air 3 digital notebook, move the file to the `Storage/noteTemplate` directory. Now you can use this this template from the `custom` section.
+To use this template, download the template PNG file on your digital notebook. On the Boox Air 3 digital notebook, move the file to the `Storage/noteTemplate` directory. Now you can use this this template from the `Custom` section in you Note application.
 
 ## Usage
 TODO
