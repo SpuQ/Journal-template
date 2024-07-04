@@ -10,8 +10,16 @@ Although this template is designed for Digital Notebooks, you can print these ou
 ## Installation (Onyx Boox)
 To use this template, download the template PNG file on your Digital Notebook. On the Digital Notebook, in the `Storage` section, move the file to the `Storage/noteTemplate` directory. Now you can use this template from the `Custom` section in you Note application.
 
-## Usage
-TODO
+## Usage & Guidelines
+Journaling during a mental crisis is widely recognized as a benificial practice. It provides a safe outlet for expressing emotions, helping individuals process their thoughts and feelings. Writing things down can offer clarity and perspective, reducing the intensity of overwhelming emotions. Through journaling patterns and triggers can be identified, which is invaluable for understanding and managing mental health. By fostering self-reflection and mindfulness, journaling empowers individuals to navigate their crises with greater resilience and insight.
+
+### Section 1: the basics
+In a period of crisis, it's essential to return to the basics. For some, for example, simply getting out of bed can be a significant achievement, while others may find themselves compulsively engaging in physical activities. Concrete actions must be taken decisively, focusiong on maintaining a balance - relative to your _normal functioning_. This section is not about self-judgement, but being mindful of balancing key aspects of your life during a crisis. If you're like me, when you pick up this guide, you might initially score zero in all areas. And that is okay. Acknowledging and adressing your crisis is a valuable first step; recognising this indicates your awareness and willingness to live through this situation, is an important step.
+
+- The four circles are to indicate how well you have managed to focus on and carry out this aspect
+- The star represents 'the extra mile'; us it when you have done more that what is usual for you during normal functioning
+- The provided line is for additional notes. For example: during my 'forced' daily walk, I sometimes have pleasant conversations with passersby; which I then note under 'social contact' 
+
 
 ## License & Collaboration
 **Copyright© 2024 Sanne 'SpuQ' Santens**. This template project is licensed under the **[GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)**.
