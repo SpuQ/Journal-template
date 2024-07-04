@@ -4,7 +4,7 @@ This is a self-care journal template for 10" Digital Notebooks. Whether you're g
 <br/>
 Designed by a person with Borderline Personality Disorder (DSM-V), a condition known for heightened sensitivity to mental crises, this template is part of a set of supporting tools to surviving a mental crisis.<br/>
 <br/>
-Though it is designed for Digital Notebooks, you can print these out on paper too.
+Although this template is designed for Digital Notebooks, you can print these out on paper too.
 <br clear="left"/>
 
 ## Installation (Onyx Boox)
