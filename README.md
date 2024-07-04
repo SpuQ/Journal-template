@@ -2,7 +2,7 @@
 <img src="journal-template.png" align="left" width="32%" />
 This is a self-care journal template for 10" Digital Notebooks. Whether you're going through a difficult time, or simply like to keep a structured journal, this template can be of great assistance.<br/>
 <br/>
-Designed by a person with Borderline Personality Disorder (DSM-V), a condition known for heightened sensitivity to mental crises, this is part of the "Mental Crisis: a survival manual".
+Designed by a person with Borderline Personality Disorder (DSM-V), a condition known for heightened sensitivity to mental crises, this is part of a bigger set of tools to surviving a mental crisis.
 <br clear="left"/>
 
 ## Installation (Onyx Boox)
