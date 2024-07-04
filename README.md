@@ -1,10 +1,12 @@
 # Self-care Journal Template
 <img src="journal-template.png" align="left" width="32%" />
-This is a self-care journal template for 10" digital notebooks. Whether you're going through a difficult time, or you just like to keep a structured journal, this template could be of great assistance.
+This is a self-care journal template for 10" Digital Notebooks. Whether you're going through a difficult time, or simply like to keep a structured journal, this template can be of great assistance
+
+Designed by a person with Borderline Personality Disorder (DSM-V), a condition known for heightened sensitivity to mental crises, this is part of the "Mental Crisis: a survival manual".
 <br clear="left"/>
 
-## Installation
-To use this template, download the template PNG file on your digital notebook. On the Boox Air 3 digital notebook, move the file to the `Storage/noteTemplate` directory. Now you can use this this template from the `Custom` section in you Note application.
+## Installation (Onyx Boox)
+To use this template, download the template PNG file on your Digital Notebook. On the Digital Notebook, in the `Storage` section, move the file to the `Storage/noteTemplate` directory. Now you can use this template from the `Custom` section in you Note application.
 
 ## Usage
 TODO
