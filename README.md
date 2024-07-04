@@ -1,6 +1,6 @@
 # Self-care Journal Template
 <img src="journal-template.png" align="left" width="32%" />
-This is a self-care journal template for 10" Digital Notebooks. Whether you're going through a difficult time, or simply like to keep a structured journal, this template can be of great assistance.<br/>
+<strong>This is a self-care journal template for 10" Digital Notebooks. Whether you're going through a difficult time, or simply like to keep a structured journal, this template can be of great assistance.</strong><br/>
 <br/>
 Designed by a person diagnosed with Borderline Personality Disorder (DSM-V), a condition known for heightened sensitivity to mental crises, this template is part of a set of supporting tools to surviving a mental crisis.<br/>
 <br/>
