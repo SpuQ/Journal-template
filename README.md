@@ -43,7 +43,7 @@ Taking care of our bodies, our living conditions, ...
 Things that just need to be done (e.g. filing taxes) ...
 
 ## The peaks
-Within a period of crisis, we might experience periods of emotional overwhelm. These are moments when, for example, you feel like your drowning in dispair, and there is no way out. These are moments which make us vulnerable to destructive behaviors - anything to escape. Understand that, while incredibly intense and blackening out any perspective, __this too shall pass__. Allow yourself to feel these emotions, allow yourself to feel their intensity, but don't let it to absorb you, don't go along with it, and __allow this wave to roll over. It will.__
+Within a period of crisis, we might experience periods of emotional overwhelm. These are moments when, for example, you feel like you are drowning in dispair, and there is no way out. These are moments which make us vulnerable to destructive behaviors - anything to escape. Understand that, while incredibly intense and blackening out any perspective, __this too shall pass__. Allow yourself to feel these emotions, allow yourself to feel their intensity, but don't let it to absorb you, don't go along with it, and __allow this wave to roll over. It will.__
 
 ## Disclaimer
 This is a merely tool for supporting your journey through challenging times. When in a state of crisis, it is important to reach out to your support network and (mental) health professionals. When you have a condition which makes you vulnerable to crises, make sure you have this support network in place and ready to fall back on, because in a state of accute crisis it can be challenging to have to start seeking the right support.
