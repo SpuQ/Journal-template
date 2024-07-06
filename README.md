@@ -20,11 +20,6 @@ In a period of crisis, it's essential to pay attention to the basics. For some, 
 - The star represents 'the extra mile'; us it when you have done more that what is usual for you during normal functioning
 - The provided line is for additional notes. For example: during my 'forced' daily walk, I sometimes have pleasant conversations with passersby; which I then note under 'social contact' 
 
-```
-"We are shaped by evolution, but we manage have a lot of wiggle room with that"
-- Robbert Sapolsky
-```
-According to A. Maslow, we have a hierarchy of needs. In a situation of crisis, it is important to maintain the fundamentals (Physiological, Safety, ...).
 #### Sleep
 We have a circadian rythm wich contributes to our health...
 #### Medication
@@ -41,6 +36,13 @@ Taking care of the inner emotional world of our being. Therapy, Mindfulness, Med
 Taking care of our bodies, our living conditions, ...
 #### Obligations
 Things that just need to be done (e.g. filing taxes) ...
+
+
+```
+"We are shaped by evolution, but we manage have a lot of wiggle room with that"
+- Robbert Sapolsky
+```
+While we don't control how we feel, we do have control over our behaviors...
 
 ## The peaks
 Within a period of crisis, we might experience periods of emotional overwhelm. These are moments when, for example, you feel like you are (almost literally) drowning in despair, and there is no way out. These are moments which make us vulnerable to destructive behaviors; anything to escape this feeling. Understand that, while incredibly intense and blackening out any perspective, __this too shall pass__. Allow yourself to feel these emotions, allow yourself to feel their intensity, but don't let it to absorb you, don't go along with it, and __allow this wave to roll over. It will.__
