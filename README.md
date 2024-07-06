@@ -37,6 +37,10 @@ Taking care of our bodies, our living conditions, ...
 #### Obligations
 Things that just need to be done (e.g. filing taxes) ...
 
+#### The blank line
+In your process, you might pay special attention to something personal to you. You can use the blank line for keeping track of this personal aspect.
+
+
 
 ```
 "We are shaped by evolution, but we manage to have a lot of wiggle room with that"
