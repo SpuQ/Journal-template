@@ -20,6 +20,27 @@ In a period of crisis, it's essential to pay attention to the basics. For some, 
 - The star represents 'the extra mile'; us it when you have done more that what is usual for you during normal functioning
 - The provided line is for additional notes. For example: during my 'forced' daily walk, I sometimes have pleasant conversations with passersby; which I then note under 'social contact' 
 
+```
+"We are shaped by evolution, but we manage have a lot of wiggle room with that"
+- Robbert Sapolsky
+```
+According to A. Maslow, we have a hierarchy of needs. In a situation of crisis, it is important to maintain the fundamentals (Physiological, Safety, ...).
+#### Sleep
+We have a circadian rythm wich contributes to our health...
+#### Medication
+When struggling with physical of mental difficulties, chances are you have a medication routine ...
+#### Nutrition
+As complex carbon-based lifeforms, we need nutrition for keeping our bodies healthy...
+#### Physical Activity
+As pointed out by many research, physical activity increases positive feelings and energy...
+#### Social Contact
+We are social creatures, maintaining healthy social relations ...
+#### Emotional Care
+Taking care of the inner emotional world of our being...
+#### Self-Care
+Taking care of our bodies, our living conditions, ...
+#### Obligations
+Things that just need to be done (e.g. filing taxes) ...
 
 ## License & Collaboration
 **Copyright© 2024 Sanne 'SpuQ' Santens**. This template project is licensed under the **[GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)**.
