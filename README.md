@@ -43,7 +43,7 @@ Taking care of our bodies, our living conditions, ...
 Things that just need to be done (e.g. filing taxes) ...
 
 ## The peaks
-Within a period of crisis, we might experience periods of emotional overwhelm. These are moments when, for example, you feel like you are drowning in dispair, and there is no way out. These are moments which make us vulnerable to destructive behaviors - anything to escape. Understand that, while incredibly intense and blackening out any perspective, __this too shall pass__. Allow yourself to feel these emotions, allow yourself to feel their intensity, but don't let it to absorb you, don't go along with it, and __allow this wave to roll over. It will.__<br/>
+Within a period of crisis, we might experience periods of emotional overwhelm. These are moments when, for example, you feel like you are drowning in dispair, and there is no way out. These are moments which make us vulnerable to destructive behaviors - anything to escape. Understand that, while incredibly intense and blackening out any perspective, __this too shall pass__. Allow yourself to feel these emotions, allow yourself to feel their intensity, but don't let it to absorb you, don't go along with it, and __allow this wave to roll over. It will.__
 <br/>
 
 A perspective on __Crisis Medication__; While I strongly recommend you train yourself in accepting these moments, allowing these to pass and finding your anchors to hold on to while the wave hits (i.e. build resilience), do discuss Crisis Medication and their correct use with your (mental) health professional, and take these as prescribed when you're losing grip.
