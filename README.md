@@ -39,7 +39,7 @@ Things that just need to be done (e.g. filing taxes) ...
 
 
 ```
-"We are shaped by evolution, but we manage have a lot of wiggle room with that"
+"We are shaped by evolution, but we manage to have a lot of wiggle room with that"
 - Robbert Sapolsky
 ```
 While we don't control how we feel, we do have control over our behaviors...
