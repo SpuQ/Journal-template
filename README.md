@@ -48,11 +48,15 @@ In your process, you might pay special attention to something personal to you. Y
 ```
 While we don't control how we feel, we do have control over our behaviors...
 
-## The peaks
+### No-Zero Principle
+This principle can be used in several situations; something is better than nothing. For example: if you aim to walk 5km each day for attenting to your needs for physical exercise, when you're having a really bad day don't just skip the walk, walk 100 meters instead. This way you achieved _no zero_. Through the no-zero principle; you may find that starting the activity is actually more difficult than keeping it going once you've started, inhibiting inertia and assisting you in acting on your intentions.
+
+### The peaks
 Within a period of crisis, we might experience periods of emotional overwhelm. These are moments when, for example, you feel like you are (almost literally) drowning in despair, and there is no way out. These are moments which make us vulnerable to destructive behaviors; anything to escape this feeling. Understand that, while incredibly intense and blackening out any perspective, __this too shall pass__. Allow yourself to feel these emotions, allow yourself to feel their intensity, but don't let it to absorb you, don't go along with it, and __allow this wave to roll over. It will.__
 
-### Crisis Medication
+#### Crisis Medication
 While I strongly recommend you train yourself in accepting these moments, allowing these to pass and finding your anchors to hold on to while the wave hits (i.e. build resilience), do discuss _crisis medication_ and their correct use with your (mental) health professional, and take these as prescribed when you're losing grip.
+
 
 ## Disclaimer
 This is a merely tool for supporting your journey through challenging times. When in a state of crisis, it is important to reach out to your support network and (mental) health professionals. When you have a condition which makes you vulnerable to crises, make sure you have this support network in place and ready to fall back on, because in a state of accute crisis it can be challenging to have to start seeking the right support.
