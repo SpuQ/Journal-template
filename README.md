@@ -59,7 +59,7 @@ While I strongly recommend you train yourself in accepting these moments, allowi
 
 
 ## Disclaimer
-This is a merely tool for supporting your journey through challenging times. When in a state of crisis, it is important to reach out to your support network and (mental) health professionals. When you have a condition which makes you vulnerable to crises, make sure you have this support network in place and ready to fall back on, because in a state of accute crisis it can be challenging to have to start seeking the right support.
+This is merely a tool for supporting your journey through challenging times. When in a state of crisis, it is important to reach out to your support network and (mental) health professionals. When you have a condition which makes you vulnerable to crises, make sure you have this support network in place and ready to fall back on, because in a state of accute crisis it can be challenging to have to start seeking the right support.
 
 ## License & Collaboration
 **Copyright© 2024 Sanne 'SpuQ' Santens**. This template project is licensed under the **[GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)**.
